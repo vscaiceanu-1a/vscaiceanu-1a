@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Victor Scaiceanu
 - 👀 I’m interested in Web technologies
-- 🌱 I’m currently learning CapacitorJS
-- 💞️ I’m looking to collaborate on many topics
+- 🌱 I’m currently playing with CapacitorJS and Angular
 - 📫 I work at [@AmadeusITGroup](https://github.com/AmadeusITGroup)
 
 <!---
